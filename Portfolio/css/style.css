@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.big {
+  width: 800px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: rgba(145, 145, 145, 0.479);
+}
+
+.name {
+  text-align: center;
+  font-size: 50px;
+  font-weight: 500;
+  padding-top: 50px;
+}
+.birthYear {
+  text-align: center;
+  font-weight: 500;
+  padding-top: 20px;
+}
+.desc {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+  padding-top: 15px;
+}
+
+.about {
+  width: 90%;
+  margin: 10px auto;
+  border: 1px solid rgba(73, 73, 73, 0.5);
+  border-radius: 5px;
+  padding: 10px 10px;
+}
+.image {
+  text-align: center;
+  border: 1px solid rgba(73, 73, 73, 0.5);
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px 10px;
+  border-radius: 5px;
+}
+
+.image img {
+  border-radius: 50%;
+  width: 50%;
+}
+
+.image p {
+  width: 100%;
+  margin: 5px auto;
+  background-color: rgba(164, 164, 164, 0.568);
+  padding: 10px 0;
+}
+.list {
+  width: 92%;
+  margin: 5px auto;
+  padding: 10px;
+  font-weight: 600;
+}
+
+ul {
+  width: 80%;
+  margin: 5px auto;
+}
+ul li {
+  line-height: 1.5;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px 0;
+  font-style: italic;
+}
