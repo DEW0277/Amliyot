@@ -1,0 +1,2 @@
+# Amliyot
+amaliyot uchun
